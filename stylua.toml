@@ -1,0 +1,9 @@
+
+column_width = 100 
+collapse_simple_statement = "Never"
+indent_type = "Tabs"
+indent_width = 2
+call_parentheses = "Always"
+
+[sort_requires]
+enabled = true

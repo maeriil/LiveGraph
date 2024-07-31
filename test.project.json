@@ -1,0 +1,11 @@
+{
+  "name": "LiveGraph Test",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "LiveGraph": {
+        "$path": "src"
+      }
+    }
+  }
+}
