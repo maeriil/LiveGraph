@@ -37,6 +37,11 @@
 local debugger = require(script.debugger)
 export type DebuggerConfig = debugger.DebuggerConfig
 
+local bulletgraph = require(script.graph.bulletgraph)
+export type BulletGraphProps = bulletgraph.BulletGraphProps
+export type BulletGraph = bulletgraph.BulletGraph
+
 return {
 	Debugger = debugger,
+	BulletGraph = bulletgraph,
 }
